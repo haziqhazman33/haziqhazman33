@@ -1,9 +1,9 @@
 
 <-- 
 ## Hi there 👋
-## About me
+## About
 
-*I'm currently learning python and other coding languages.
+* I'm currently learning python and other coding languages.
 
 -->
 <!--
