@@ -1,6 +1,6 @@
-## Hi there 👋
-<-- 
 
+<-- 
+## Hi there 👋
 ## About me
 
 *I'm currently learning python and other coding languages.
